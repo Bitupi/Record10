@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Ruiz",
+  "age": 43,
+  "address": {
+    "street": "Hubfa Boulevard",
+    "city": "Vipikuve",
+    "state": "NY",
+    "zip": "71310"
+  },
+  "contact": {
+    "phone": "(760) 745-9395",
+    "servicePhone": "800667986"
+  },
+  "birthday": "1999-11-20T05:13:35.398Z",
+  "ip": "228.174.216.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Gedes cojal zi ke ejigga malami dalahi fifziwe habfeb hiznegifi duspup efgawro ac irfurili takis pizerser kalom. Ete tetmeme hu cobve zounuves nupum peg zega is vanvat cobgiagi zeruf deusek koporidiw. Gon zek lakasi kallavab vewze monuvis fistuh sakegaha pet ra jugeteh hugu asu. Puk su zo pug oti no lomwat zez lo luh womag hunvo wonohimil. Bahjawkes kopemo in jom zuwful imiri kabipbih ug us mot si nug doruep siob kuz ace. Rinogrek babvi iru umu no gehiv ziru wunof dekac dabej wovadev go ekij. Hebejjuv pibvor vi ifwu focoduj tuda fiz nipva bezi paginu awiiv nebhetval.",
+    "bio": "Nifawpuj pudrorus iw waarumi ulaf por kukud suj uk ti tedufi pe ve debew god. Sopje dejufij iziifgil neawu zupjafaw sufe guzhabo galzeohu luko tistar gemsed irubibe obiluwiho me me bovwih. Co irerur pi weware fubohmu erehi fatzozme var zejorja gehikusef re isbarvus uc didzo rosin."
+  },
+  "apiKey": "f00456bfb6a782c2348a2c289858b469ed073e7fdd73a1ee76732510e9efd87d",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
