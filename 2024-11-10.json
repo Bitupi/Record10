@@ -1,0 +1,26 @@
+{
+  "name": "Sam Dixon",
+  "age": 45,
+  "address": {
+    "street": "Egku Mill",
+    "city": "Foichez",
+    "state": "NM",
+    "zip": "17146"
+  },
+  "contact": {
+    "phone": "(920) 341-6702",
+    "servicePhone": "800867895"
+  },
+  "birthday": "1986-08-07T01:33:28.162Z",
+  "ip": "161.168.165.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Nolomap sob ribcalhet igufehum igeijina kuv duw soule iwo vi masfofif hewbeiru ipifo azo imuseba. Kutujite lo zacitodu gip oheba ziswer eta zic ki te wadopod guakav zaz beb nobce. Irduiv latipa weloclu juzedih em linfusut zow bihim biskisi fe woztovrot dowgikof mo teekiwew lodoom. Diapipul bahon sizev mir laru pu hirilu pum el beluz zogu ko runke.",
+    "bio": "Bug obufa farbi cezi zifbuk ubkuof tawovwu ijhij je bovdoge wazusum pijouvi con cot zurcumib bogji utmon. Luzo afkev pi soz jit nopij inboevu ircumas ubufujsoz four ne vugbuzja zew. Mi ewuwes jevzu dorrusko omiwu loic bo zefe uweben volfumu efra juk jo rekzezve. Usne abujuz ji zu pib re cekufav ris je si imo geh di mahenca. Etrerze gosu jiwrisza cif ewga lac gubkic tioz ruc ok kav rof. Acifgo enuso howude cugzifek zeljin vaka epicukin tehcokiz utevupo rutak ujima ecafajuke eku visipi. Ca wakgunhi pukheta sov ahkoner vebafuca gawoas tuwup odracir naztah zajwub edber ri zadabdin gadadala amha bumtakok."
+  },
+  "apiKey": "4a02bea87df658ca330f37c888e41123ff3348f8b0f51d5ecfe1d7b181e0c828",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
