@@ -1,0 +1,26 @@
+{
+  "name": "Erik Walton",
+  "age": 41,
+  "address": {
+    "street": "Witi Road",
+    "city": "Rudgaav",
+    "state": "NM",
+    "zip": "73508"
+  },
+  "contact": {
+    "phone": "(834) 714-3060",
+    "servicePhone": "800521828"
+  },
+  "birthday": "1961-10-30T03:39:05.311Z",
+  "ip": "148.130.251.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Ciwet gisbivib he gi fotemrub wuve uwi vanisuj wolepwek oheeh le koddi faj. Kos posokuf onemog nujis viwzo vahueb kofu ivo ot pokuptih acvehtaf coh kuclebsu uzaisdu gelgeuda peeb. Ro go nehre igivojo vub tupe kobvoto jikrekdeg jow muf mocek acbi vezizza wibuobo bevej. Gi zo zigpur pu tawguluk ohe bib udicosiv tarkaden eli amati zunmap vepef pa bi. Ned ujfa ja utmo lawmu tudamubi kimoas jokmi uvezeg bimfek jetpol zo nosudmiz. Oz gavaer ke panbipef tizi me no mazobo husvi mus lukbipaw zesoko.",
+    "bio": "Ef ma radin wu zaku depiik sieb canieka mo domvoz liku dizo. Jib ojsa lirar ba ducu zet eciobba poeru voz hauno apidot fomeg pamfow ratmeim bonoha jot koz. Viewojaj vetvas pu bik dep jus rah teb zefib migo ugse cen jeg deahcic poleg natiga zehem heg. Rimraj os roczik huguwwov durofir kozehhed igekusib mecone iktuf jewvebej lagedku ge gu."
+  },
+  "apiKey": "aa31bb81b1ca014a3f56f13a655d767a37121b0c173073c243159982ed9b75fc",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
