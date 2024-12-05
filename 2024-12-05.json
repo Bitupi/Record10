@@ -1,0 +1,26 @@
+{
+  "name": "Jessie Thomas",
+  "age": 26,
+  "address": {
+    "street": "Woubu Heights",
+    "city": "Telipu",
+    "state": "SD",
+    "zip": "60878"
+  },
+  "contact": {
+    "phone": "(979) 872-1812",
+    "servicePhone": "800388179"
+  },
+  "birthday": "1985-01-24T05:29:56.881Z",
+  "ip": "165.62.253.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Sutjetim tetcowzah ref ogitibe en sadu ic kovubet nigji la ze fi. Zoigi wu wez til uwe uc luv solot ujo na wo reehunen. Ko adnurnu di reborovo daecsip zunno mi kockatte avousu bife ireoshi rif tazbim.",
+    "bio": "Oba dihag kohpu tu gengued wow vik zepruz jozvi da he uk lufo munez rav. Eka sa bouc ralolo zaer ajci tasfovhok pu pizdappi zawbum iwtabe pe. Kazo jisciwel rujigsil naboz ugoru jumle jo uf ez bisfu won ugihu ka akrezaw ijgo vukziru iku. Ki vu gebeh sano kigolwin gopzappet bahpo vimgi jaz wub luvesdul zovuhi fan kohwuc lelkika owjoh pijupuci."
+  },
+  "apiKey": "f5aefa5b7467b277be56c0e5de85caf6617f1eef34b911f257da94e2dc6f619e",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
